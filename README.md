@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiusername=viniman27)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniman27)](https://github.com/viniman27/github-readme-stats)
 <!--
 **viniman27/viniman27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
