@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there!!!
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniman27)](https://github.com/viniman27/github-readme-stats)-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniman27&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniman27&theme=chartreuse-dark&show_icons=true)
 
 
 <!--
