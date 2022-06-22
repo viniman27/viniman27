@@ -6,7 +6,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-viniciusdearaujo27@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusdearaujo27@gmail.com)](mailto:viniciusdearaujo27@gmail.com)
 
-I'm a software engineering student interested in game design, A.I and cybersecurity.
+I'm a software engineering student interested in game design,creative writing, A.I and cybersecurity.
 Always looking foward to learn more!
 
 My Stats ⚡
