@@ -11,6 +11,9 @@ Always looking foward to learn more!
 
 My Stats ⚡
 
+<a href="https://github.com/viniman27/github-readme-stats">
+  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniman27&hide=jupyter%20notebook,html,c&layout=compact&theme=great-gatsby" />
+</a>
 
 
 <a href="https://github.com/viniman27/github-readme-statst">
