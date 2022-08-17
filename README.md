@@ -21,15 +21,7 @@ My Stats ⚡
 
 
 
-<!--
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniman27&theme=great-gatsby&show_icons=true)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniman27&theme=great-gatsby)](https://github.com/viniman27/github-readme-stats)
--->
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniman27&theme=chartreuse-dark)](https://github.com/viniman27/github-readme-stats)
--->
-<!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viniman27&repo=github-readme-stats)](https://github.com/viniman27/github-readme-stats)
--->
 
 <!--
 **viniman27/viniman27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
