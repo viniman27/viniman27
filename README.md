@@ -21,9 +21,10 @@ My Stats ⚡
 </a>
 
 
-
-
 ![Snake animation](https://github.com/viniman27/viniman27/blob/output/github-contribution-grid-snake.svg)
+
+
+
 
 <!--
 **viniman27/viniman27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
