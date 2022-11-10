@@ -6,6 +6,8 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-viniciusdearaujo27@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusdearaujo27@gmail.com)](mailto:viniciusdearaujo27@gmail.com)
 
+<a href="https://steamcommunity.com/profiles/76561198192791639/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+
 I'm a software engineering student interested in game design,creative writing, A.I and cybersecurity.
 Always looking foward to learn more!
 
