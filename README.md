@@ -18,14 +18,11 @@ My Stats ⚡
 </a>
 
 
-<a href="https://github.com/viniman27/github-readme-statst">
-  <img align="left"  height='150px' src="https://github-readme-stats.vercel.app/api?username=viniman27&show_icons=true&theme=great-gatsby" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniman27&theme=great-gatsby))](https://github.com/viniman27/github-readme-stats)
+
 
 
 ![Snake animation](https://github.com/viniman27/viniman27/blob/output/github-contribution-grid-snake.svg)
-
-
 
 
 <!--
