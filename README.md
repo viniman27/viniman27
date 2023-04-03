@@ -37,9 +37,11 @@ My Stats ⚡
 <div align="center">
    <img height="190em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniman27&theme=2077"/> 
    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniman27&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
-   <img height "140em" src" http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniman27&theme=2077"/>
-  </a>
+   <img height "140em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniman27&theme=2077"/> 
+ </a>
 </div>
+
+
 
 [![JubayerRiyad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=viniman27&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true)](https://github.com/viniman27/github-readme-activity-graph)
 
