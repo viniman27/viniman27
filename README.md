@@ -36,8 +36,8 @@ My Stats ⚡
 <br />
 <div align="center">
    <img height="190em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniman27&theme=2077"/> 
+   <img height "130em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniman27&theme=2077"/> 
    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniman27&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
-   <img height "140em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniman27&theme=2077"/> 
  </a>
 </div>
 
