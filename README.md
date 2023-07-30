@@ -4,6 +4,7 @@
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/78980842/175096523-2cd5daf3-adc6-42de-9981-2f92034fcf46.gif)
 
+<!--
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank">  <a href="https://www.w3schools.com/css/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> 
@@ -14,6 +15,83 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="python" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="python" width="40" height="40"/> </a> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c3" width="40" heigth="40"/>
+-->
+
+## Favorite tools and technologies! ⚙️ 
+
+<!-- Tools and technologies that I have worked with and am interested in -->
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="icon" width="65" height="65" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <a href="#git" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center"  width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="48" height="48" alt="GitLab" />
+      <br>GitLab
+    </td>
+    <td align="center"  width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"  width="96">
+      <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
+      <br>jQuery
+    </td>
+    <td align="center" width="96">
+      <a href="#laravel">
+        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>MySQL
+    </td>
+    </td>
+  </tr>
+</table>
+
+<br/>
+<br/>
+
+
+
+
 
 
 [![Gmail Badge](https://img.shields.io/badge/-viniciusdearaujo27@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusdearaujo27@gmail.com)](mailto:viniciusdearaujo27@gmail.com)
@@ -44,15 +122,12 @@ My Stats ⚡
  </a>
 </div>
 
-
-
-[![JubayerRiyad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=viniman27&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true)](https://github.com/viniman27/github-readme-activity-graph)
-
 <br>
 </div>
 </div>
 
 <br/>
+
 
   
 ### Beware of the snake!  
