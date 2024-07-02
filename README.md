@@ -33,18 +33,18 @@
       <br>Javascript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="icon" width="65" height="65" />
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
-  </tr>
+  <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C icon" width="65" height="65" />
+  <br>C
+</td>
+<td align="center" width="96">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ icon" width="65" height="65" />
+  <br>C++
+</td>
+<td align="center" width="96">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" alt="C# icon" width="65" height="65" />
+  <br>C#
+</td>
+
 
   <tr>
     <td align="center" width="96">
