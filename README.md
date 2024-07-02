@@ -19,76 +19,68 @@
 
 ## Favorite tools and technologies! ⚙️ 
 
-<!-- Tools and technologies that I have worked with and am interested in -->
-<table align="center">
+<!-- Tools and technologies that I have worked with and am interested in --><table align="center">
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python icon" width="65" height="65" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript icon" width="65" height="65" />
       <br>Javascript
     </td>
     <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C icon" width="65" height="65" />
-  <br>C
-</td>
-<td align="center" width="96">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ icon" width="65" height="65" />
-  <br>C++
-</td>
-<td align="center" width="96">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" alt="C# icon" width="65" height="65" />
-  <br>C#
-</td>
-
-
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C icon" width="65" height="65" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++ icon" width="65" height="65" />
+      <br>C++
+    </td>
+  </tr>
   <tr>
     <td align="center" width="96">
-      <a href="#git" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C# icon" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <a href="#git">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git icon" />
       </a>
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
+      <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub icon" />
       <br>GitHub
     </td>
-    <td align="center"  width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="48" height="48" alt="GitLab" />
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="48" height="48" alt="GitLab icon" />
       <br>GitLab
     </td>
-    <td align="center"  width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML icon" />
       <br>HTML
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS icon" />
       <br>CSS
     </td>
-  </tr>
-
-  <tr>
-    <td align="center"  width="96">
-      <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery icon" />
       <br>jQuery
     </td>
     <td align="center" width="96">
       <a href="#laravel">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
+        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="MySQL icon" />
       </a>
       <br>MySQL
     </td>
-    </td>
   </tr>
 </table>
-
-<br/>
-<br/>
-
 
 
 
@@ -113,19 +105,24 @@ My Stats ⚡
 
 -->
 
-</a> </p>
-<br />
 <div align="center">
-   <img height="190em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniman27&theme=2077"/> 
-   <img height "130em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniman27&theme=2077"/> 
-   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniman27&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
- </a>
-</div>
+  <!-- Profile Details Card -->
+  <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniman27&theme=2077" alt="Profile Details" />
+  
+  <!-- Stats Card -->
+  <img height="130em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniman27&theme=2077" alt="Stats" />
+  
+  <!-- Top Languages Card -->
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniman27&layout=compact&langs_count=7&theme=radical&hide_border=true" alt="Top Languages" />
+  
+  <!-- Productive Time Card -->
+ <!-- <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viniman27&theme=2077" alt="Productive Time" />
+  
+  <!-- Repos Per Language Card -->
+  <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viniman27&theme=2077" alt="Repos Per Language" />
+  
 
-<br>
 </div>
-</div>
-
 <br/>
 
 
