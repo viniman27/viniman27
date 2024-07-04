@@ -13,10 +13,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Set up GitHub username
+        run: echo "GITHUB_USERNAME=${{ github.repository_owner }}" >> $GITHUB_ENV
+
       - name: Generate snake animation
         uses: Platane/snk@v2.1.0
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ env.GITHUB_USERNAME }}
           output: dist/github-contribution-grid-snake.svg
 
       - name: Push generated snake animation
