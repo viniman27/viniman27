@@ -127,9 +127,6 @@ My Stats ⚡
 
 
   
-### Beware of the snake!  
-
-![Snake animation](https://github.com/viniman27/viniman27/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
