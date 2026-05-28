@@ -84,8 +84,8 @@ My Stats ⚡
   <!-- Stats Card -->
   <img height="130em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniman27&theme=2077" alt="Stats" />
   
-  <!-- Top Languages Card -->
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniman27&layout=compact&langs_count=7&theme=2077&hide_border=true" alt="Top Languages" />
+  <!-- Top Languages by Commit Card -->
+  <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viniman27&theme=2077" alt="Top Languages by Commit" />
   
   <!-- Repos Per Language Card -->
   <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viniman27&theme=2077" alt="Repos Per Language" />
