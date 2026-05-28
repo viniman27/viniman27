@@ -1,6 +1,6 @@
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/78980842/175097109-ce955d62-62cd-4a69-aa5c-625e87750b1a.png)
 
-![Vinícius Assumpção](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hi,I´m+Vinícius+Assumpção;Software+engineering+students)
+![Vinícius Assumpção](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hi,+I´m+Vinícius+Assumpção;MSc+Software+Engineering+Student)
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/78980842/175096523-2cd5daf3-adc6-42de-9981-2f92034fcf46.gif)
 
@@ -70,8 +70,8 @@
 
 <a href="https://steamcommunity.com/profiles/76561198192791639/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 
-I'm a software engineering student interested in game design, creative writing, A.I and cybersecurity.
-Always looking foward to learn more!
+I'm a software engineering graduate and MSc student interested in game design, creative writing, A.I and cybersecurity.
+Always looking forward to learn more!
 
 ## My Stats ⚡
 
@@ -100,8 +100,12 @@ Always looking foward to learn more!
 
   <br/><br/>
 
-  <!-- Snake animation -->
-  <img src="https://raw.githubusercontent.com/viniman27/viniman27/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <!-- Snake animation (dark/light mode aware) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viniman27/viniman27/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viniman27/viniman27/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/viniman27/viniman27/output/github-contribution-grid-snake.svg" />
+  </picture>
 
 </div>
 
