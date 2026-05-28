@@ -33,9 +33,7 @@
       <br>C#
     </td>
     <td align="center" width="96">
-      <a href="#git">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git icon" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git icon" />
       <br>Git
     </td>
     <td align="center" width="96">
@@ -75,20 +73,36 @@
 I'm a software engineering student interested in game design, creative writing, A.I and cybersecurity.
 Always looking foward to learn more!
 
-My Stats ⚡
+## My Stats ⚡
 
 <div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=viniman27&theme=dark&hide_border=true&background=0D1117&stroke=3A9CDF&ring=3A9CDF&fire=DD4814&currStreakLabel=3A9CDF" alt="GitHub Streak" />
+
+  <br/><br/>
+
   <!-- Profile Details Card -->
   <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniman27&theme=2077" alt="Profile Details" />
-  
+
   <!-- Stats Card -->
   <img height="130em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniman27&theme=2077" alt="Stats" />
-  
+
   <!-- Top Languages by Commit Card -->
   <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viniman27&theme=2077" alt="Top Languages by Commit" />
-  
+
   <!-- Repos Per Language Card -->
   <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viniman27&theme=2077" alt="Repos Per Language" />
 
+  <br/><br/>
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viniman27&theme=react-dark&hide_border=true" alt="Activity Graph" />
+
+  <br/><br/>
+
+  <!-- Snake animation -->
+  <img src="https://raw.githubusercontent.com/viniman27/viniman27/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 </div>
-<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3A9CDF&height=100&section=footer" width="100%" />
