@@ -96,7 +96,7 @@ Always looking forward to learn more!
   <br/><br/>
 
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viniman27&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="./assets/activity-graph.svg" alt="Activity Graph — daily contributions over the last 31 days, updated daily via GitHub Actions" width="100%" />
 
   <br/><br/>
 

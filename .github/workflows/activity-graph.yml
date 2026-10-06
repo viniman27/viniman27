@@ -1,0 +1,45 @@
+name: Update Activity Graph
+
+on:
+  schedule:
+    - cron: '23 6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/activity_graph.py
+      - scripts/test_activity_graph.py
+      - .github/workflows/activity-graph.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: activity-graph
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Test graph renderer
+        run: python -m unittest discover -s scripts -v
+      - name: Generate graph from GitHub contributions
+        run: python scripts/activity_graph.py
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GRAPH_USERNAME: ${{ github.repository_owner }}
+      - name: Commit updated graph
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/activity-graph.svg
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: update activity graph'
+            git push
+          fi
